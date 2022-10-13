@@ -8,13 +8,9 @@
 |Package | Version |
 |:-------|:--------|
 |array-has-value|[![NPM version](https://img.shields.io/npm/v/array-has-value.svg)](https://www.npmjs.com/package/array-has-value)|
-
 |deduplicate-array |[![NPM version](https://img.shields.io/npm/v/deduplicate-array.svg)](https://www.npmjs.com/package/deduplicate-array)|
-
 |get-dtype-of|[![NPM version](https://img.shields.io/npm/v/get-dtype-of.svg)](https://www.npmjs.com/package/get-dtype-of)|
-
 |group-objects-array|[![NPM version](https://img.shields.io/npm/v/group-objects-array.svg)](https://www.npmjs.com/package/group-objects-array)|
-
 |resolve-dotstringkey|[![NPM version](https://img.shields.io/npm/v/resolve-dotstringkey.svg)](https://www.npmjs.com/package/resolve-dotstringkey)|
 
 
