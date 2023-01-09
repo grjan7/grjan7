@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jana Rangasamy, a Node.js developer and MongoDB Developer Administrator.
 - 👀 I’m interested in writing npm packages and writing analytic solutions and parser for MQL and aggregation pipeline of MongoDB.
-- 🌱 I’m constantly learning and upgrading myself on evoving computing technology. 
+- 🌱 I’m constantly learning and upgrading myself on evolving computing technology. 
 - 💞️ I’m looking to collaborate on projects that requires my skillset.
 - 📫 How to reach me janagr7@gmail.com | https://in.linkedin.com/in/jana-r-js-mongodb-developer 
 
