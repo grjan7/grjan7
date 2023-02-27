@@ -14,6 +14,8 @@
 |group-objects-array       |[![NPM version](https://img.shields.io/npm/v/group-objects-array.svg)](https://www.npmjs.com/package/group-objects-array)                                                                                                                          |
 |resolve-dotstringkey      |[![NPM version](https://img.shields.io/npm/v/resolve-dotstringkey.svg)](https://www.npmjs.com/package/resolve-dotstringkey)                                                                                                                         |
 |@jsonalytix/lookup      |[![NPM version](https://img.shields.io/npm/v/@jsonalytix/lookup.svg)](https://www.npmjs.com/package/@jsonalytix/lookup)                                                                                                                         |
+|@jsonalytix/limit      |[![NPM version](https://img.shields.io/npm/v/@jsonalytix/limit.svg)](https://www.npmjs.com/package/@jsonalytix/limit)                                                                                                                         |
+|@jsonalytix/skip      |[![NPM version](https://img.shields.io/npm/v/@jsonalytix/skip.svg)](https://www.npmjs.com/package/@jsonalytix/skip)                                                                                                                         |
 
 
 <!---
