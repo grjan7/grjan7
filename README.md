@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jana Rangasamy, a Node.js developer and MongoDB Developer Administrator.
+- 👋 Hi, I’m Jana R, a Node.js developer and MongoDB Developer Administrator.
 - 👀 I’m interested in writing npm packages and writing analytic solutions and parser for MQL and aggregation pipeline of MongoDB.
 - 🌱 I’m constantly learning and upgrading myself on evolving computing technology. 
 - 💞️ I’m looking to collaborate on projects that requires my skillset.
@@ -13,7 +13,6 @@
 |get-dtype-of              |[![NPM version](https://img.shields.io/npm/v/get-dtype-of.svg)](https://www.npmjs.com/package/get-dtype-of)|
 |group-objects-array       |[![NPM version](https://img.shields.io/npm/v/group-objects-array.svg)](https://www.npmjs.com/package/group-objects-array)                                                                                                                          |
 |resolve-dotstringkey      |[![NPM version](https://img.shields.io/npm/v/resolve-dotstringkey.svg)](https://www.npmjs.com/package/resolve-dotstringkey)                                                                                                                         |
-
 |@jsonalytix/lookup      |[![NPM version](https://img.shields.io/npm/v/@jsonalytix/lookup.svg)](https://www.npmjs.com/package/@jsonalytix/lookup)                                                                                                                         |
 
 
