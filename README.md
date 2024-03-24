@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jana R, a Node.js developer and MongoDB Developer Administrator.
-- 👀 I’m interested in writing npm packages and writing analytic solutions and parser for MQL and aggregation pipeline of MongoDB.
+- 👋 Hi, I’m a Node.js developer and MongoDB Developer/Architect/Administrator.
+- 👀 I’m interested in designing and developing API/Webhooks and IAM solutions.
 - 🌱 I’m constantly learning and upgrading myself on evolving computing technology. 
 - 💞️ I’m looking to collaborate on projects that requires my skillset.
-- 📫 How to reach me janagr7@gmail.com | https://in.linkedin.com/in/jana-r-js-mongodb-developer 
+- 📫 How to reach me https://in.linkedin.com/in/jana-r-js-mongodb-developer 
 
 # Published NPM Packages
 |Package                   | Version                                                                                                          |
