@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Node.js developer and MongoDB Architect/Administrator.
 - 👀 I’m interested in designing and developing API/Webhooks and IAM solutions.
 - 🌱 I’m constantly upskilling to stay in sync with the technology. 
-- 💞️ I’m looking to collaborate on projects that requires my skillset.
+- 💞️ I’m looking to collaborate on projects that require my skillset.
 - 📫 How to reach me https://in.linkedin.com/in/jana-r-js-mongodb-developer 
 
 # Published NPM Packages
