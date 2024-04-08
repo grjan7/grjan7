@@ -17,7 +17,7 @@
 |@jsonalytix/limit      |[![NPM version](https://img.shields.io/npm/v/@jsonalytix/limit.svg)](https://www.npmjs.com/package/@jsonalytix/limit)                                                                                                                         |
 |@jsonalytix/skip      |[![NPM version](https://img.shields.io/npm/v/@jsonalytix/skip.svg)](https://www.npmjs.com/package/@jsonalytix/skip)                                                                                                                         |
 
-
+![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=grjan7&count_private=true)
 <!---
 grjan7/grjan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
